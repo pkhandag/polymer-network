@@ -1,2 +1,2 @@
-# Statistical field theory for the non-linear elasticity of polymer networks with nonlocal inter-segment interactions
+# Statistical Field Theory for the Non-linear Elasticity of Polymer Networks with Nonlocal Inter-segment Interactions
 
