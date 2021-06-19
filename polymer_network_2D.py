@@ -1,6 +1,6 @@
 """ 
 Created in: 2021
-Purpose: obtain average segment density and total free energy of polymer network (with 4-chain model) in 2D
+Purpose: evaluate average segment density and total free energy of 2D polymer network with nonlocal inter-segment interactions 
 Contact: Pratik Khandagale (pkhandag@andrew.cmu.edu)
 """
 
@@ -91,19 +91,14 @@ delta_H_ratio=5
 
 
 for i1 in range(no_of_stretch_values):
-# for i1 in range(6):
     for i2 in range(no_of_stretch_values):
-            
-        # print('stretch configuration iteration no')
-        # print(i1)
-        # print(i2)
+           
         
         ## principal stretch values
         lambda_1_stretch[i1]= 1
         lambda_2_stretch[i2]= 1      
     
  
-    
         ############################################################### 
         ## V mesh forming
         ############################################################### 
