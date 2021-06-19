@@ -1,6 +1,6 @@
 """ 
 Created in: 2021
-Purpose: obtain average segment density and total free energy of polymer network (with 4-chain model) in 2D
+Purpose: obtain average segment density and total free energy of polymer network with nonlocal inter-segment interactions (using 4-chain model) in 2D
 Contact: Pratik Khandagale (pkhandag@andrew.cmu.edu)
 """
 
